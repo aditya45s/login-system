@@ -19,4 +19,4 @@ This project allows users to **register, log in, and manage credentials** secure
 1. Clone or download the repository  
 2. Compile the program:
    ```bash
-   g++ login_system.cpp -o login_system
+   g++ signup_system.cpp -o signup_system
